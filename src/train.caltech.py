@@ -10,7 +10,7 @@ import ipdb
 weight_path = '/mnt/disks/disk-1/checkpoints/vgg16/caffe_layers_value.pickle'
 model_path = '../models/caltech256/'
 pretrained_model_path = '../models/caltech256/model-0'
-n_epochs = 5
+n_epochs = 3
 init_learning_rate = 0.01
 weight_decay_rate = 0.0005
 momentum = 0.9
